@@ -1,0 +1,19 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/casper/TestProjects/AkkaHelloWorld/target/scala-2.12/akkahelloworld_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloakka/HelloAkkaScala$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/casper/TestProjects/AkkaHelloWorld/target/scala-2.12/classes/helloakka/HelloAkkaScala$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloakka/HelloAkkaScala.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/casper/TestProjects/AkkaHelloWorld/target/scala-2.12/classes/helloakka/HelloAkkaScala.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloakka/WhoToGreet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/casper/TestProjects/AkkaHelloWorld/target/scala-2.12/classes/helloakka/WhoToGreet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloakka[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/casper/TestProjects/AkkaHelloWorld/target/scala-2.12/classes/helloakka[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloakka/WhoToGreet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/casper/TestProjects/AkkaHelloWorld/target/scala-2.12/classes/helloakka/WhoToGreet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloakka/Greeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/casper/TestProjects/AkkaHelloWorld/target/scala-2.12/classes/helloakka/Greeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloakka/Greeter$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/casper/TestProjects/AkkaHelloWorld/target/scala-2.12/classes/helloakka/Greeter$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	helloakka/HelloAkkaScala$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/casper/TestProjects/AkkaHelloWorld/target/scala-2.12/classes/helloakka/HelloAkkaScala$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
